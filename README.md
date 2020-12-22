@@ -1,6 +1,6 @@
 ## Hey, I'm Lujie - **[Learn more about me](https://lujiez.github.io/)** 💖
 
-Hi, I'm **Lujie Zhao(赵璐洁)**, a junior CS student at New York University.
+Hi, I'm **Lujie Zhao(赵璐洁)**, a junior CS student at New York University. You can also call me Sue. 🥰
 
 I came to United States when I was 16 from [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) and haven't gone home for almost two years.
 
