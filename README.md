@@ -1,24 +1,22 @@
 ## Hey, I'm Lujie - **[Learn more about me](https://lujiez.github.io/)** 💖
 
-Hi, I'm **Lujie Zhao(赵璐洁)**, a junior CS student at New York University. You can also call me Sue. 🥰
-
-I came to United States when I was 16 from [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou) and haven't gone home for almost two years.
+Hi, I'm **Lujie Zhao(赵璐洁)**, currently a Software Engineer at Google under GCP Cloud IAM team. Early graduated in December 2021 from New York University with Megna cum laude. You can also call me Sue. 🥰
 
 ### What I'm Doing Recently
 
-- 👩🏻‍💻 Currently working on rebuilding course pages for [General Engineering](https://eg.poly.edu/) class at NYU;
-- 🌱 Interested in learning web development skills and some competitive programming stuff;
-- 💬 Ask me anything, I'm looking forward to talk to you;
+- 👩🏻‍💻 Currently working on [Trusted Partner Cloud](https://www.datacenterdynamics.com/en/news/google-cloud-makes-huge-bet-on-trusted-partner-cloud-and-data-sovereignty-in-leaked-documents/) and making GCP ([Service Agents](https://cloud.google.com/iam/docs/service-agents)) more secure and reliable;
+- 🌱 Interested in improving engineering skills and some competitive programming stuff;
+- 💬 Ask me anything, open to refer at any level;
 - 📫 Feel free to email me if you have any question.
 
 ### Languages and Tools I Use
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
