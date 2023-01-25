@@ -1,6 +1,6 @@
 ## Hey, I'm Lujie - **[Learn more about me](https://lujiez.github.io/)** 💖
 
-Hi, I'm **Lujie Zhao(赵璐洁)**, currently a Software Engineer at Google under GCP Cloud IAM team. Early graduated in December 2021 from New York University with Megna cum laude. You can also call me Sue. 🥰
+Hi, I'm **Lujie Zhao(赵璐洁)**, currently a Software Engineer at Google under Cloud Security. Early graduated in December 2021 from New York University with Megna cum laude. You can also call me Sue. 🥰
 
 ### What I'm Doing Recently
 
@@ -11,8 +11,8 @@ Hi, I'm **Lujie Zhao(赵璐洁)**, currently a Software Engineer at Google under
 
 ### Languages and Tools I Use
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
